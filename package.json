@@ -1,7 +1,7 @@
 {
-  "name": "srilin-antigravity",
+  "name": "srilin-modern-revamp",
   "version": "1.0.0",
-  "description": "SriLin Electronics — Google Antigravity Edition",
+  "description": "SriLin Electronics — Next-Gen Aerospace & Defense EMS Platform",
   "type": "module",
   "scripts": {
     "dev": "vite --port 5174",

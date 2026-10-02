@@ -70,7 +70,7 @@ The application follows the official Google Antigravity section architecture:
 ## Directory Structure
 
 ```
-srilin-antigravity-revamp/
+srilin-modern-revamp/
 ├── public/
 │   └── assets/
 │       ├── image/          # SriLin logos, cleanroom imagery, brand SVGs
